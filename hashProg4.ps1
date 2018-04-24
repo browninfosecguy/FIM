@@ -1,6 +1,6 @@
 ﻿function Get-Fim{
     param (
-            $directory = 'C:\sunny'
+            $directory = 'C:\folder'
 
     )
 
